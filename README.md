@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23846978)
 <h1>🎓 Level 3: Advanced Python & Systems</h1>
 
 <p>Welcome to the final tier. In this level, we move beyond simple scripts and start building "Software." You will learn to handle data like a pro, use external libraries, and create systems that "remember" information even after the program is closed.</p>
